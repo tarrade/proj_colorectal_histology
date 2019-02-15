@@ -2,5 +2,4 @@ data/
 .DS_Store
 .idea/
 .ipynb_checkpoints/
-
-model.weights.best.hdf5
+results/
